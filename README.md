@@ -18,3 +18,4 @@
 ## Windows
 
 * PotPlayer
+* MuMu安卓模拟器
